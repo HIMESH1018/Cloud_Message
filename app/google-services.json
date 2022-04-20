@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "773101906070",
+    "project_id": "cloud-push-notfication",
+    "storage_bucket": "cloud-push-notfication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773101906070:android:9f5c88a9035e81c2cfbab7",
+        "android_client_info": {
+          "package_name": "com.example.cloudpush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773101906070-6rkduld8v8t8eub5v6msj13ah16jlape.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmYXBlzBTPUkoRRtdYWKRAfWceF9xCRD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773101906070-6rkduld8v8t8eub5v6msj13ah16jlape.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
